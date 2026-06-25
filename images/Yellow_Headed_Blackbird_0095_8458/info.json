@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 14,
+    "height" : 16
+  }, {
+    "width" : 28,
+    "height" : 32
+  }, {
+    "width" : 56,
+    "height" : 63
+  }, {
+    "width" : 112,
+    "height" : 125
+  }, {
+    "width" : 223,
+    "height" : 250
+  }, {
+    "width" : 446,
+    "height" : 500
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 446,
+  "@id" : "https://janagoetze.github.io/iiif_test/images/Yellow_Headed_Blackbird_0095_8458",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 500
+}

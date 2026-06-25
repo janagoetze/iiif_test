@@ -88,6 +88,168 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://janagoetze.github.io/iiif_test/images/Cardinal_0018_17071/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Cardinal_0018_17071"
+                ]
+            },
+            "height": 500,
+            "width": 431,
+            "items": [
+                {
+                    "id": "https://janagoetze.github.io/iiif_test/images/Cardinal_0018_17071/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://janagoetze.github.io/iiif_test/images/Cardinal_0018_17071/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://janagoetze.github.io/iiif_test/images/Cardinal_0018_17071/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 14,
+                                                "height": 16
+                                            },
+                                            {
+                                                "width": 27,
+                                                "height": 32
+                                            },
+                                            {
+                                                "width": 54,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 108,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 216,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 431,
+                                                "height": 500
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 431,
+                                        "@id": "https://janagoetze.github.io/iiif_test/images/Cardinal_0018_17071",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 500,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://janagoetze.github.io/iiif_test/images/Cardinal_0018_17071/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://janagoetze.github.io/iiif_test/images/Cardinal_0025_17239/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Cardinal_0025_17239"
+                ]
+            },
+            "height": 362,
+            "width": 500,
+            "items": [
+                {
+                    "id": "https://janagoetze.github.io/iiif_test/images/Cardinal_0025_17239/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://janagoetze.github.io/iiif_test/images/Cardinal_0025_17239/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://janagoetze.github.io/iiif_test/images/Cardinal_0025_17239/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 16,
+                                                "height": 12
+                                            },
+                                            {
+                                                "width": 32,
+                                                "height": 23
+                                            },
+                                            {
+                                                "width": 63,
+                                                "height": 46
+                                            },
+                                            {
+                                                "width": 125,
+                                                "height": 91
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 181
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 362
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 500,
+                                        "@id": "https://janagoetze.github.io/iiif_test/images/Cardinal_0025_17239",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 362,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://janagoetze.github.io/iiif_test/images/Cardinal_0025_17239/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
